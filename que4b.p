@@ -1,5 +1,5 @@
-set term png
-set output 'age_bp_correlation.png'
+set term pdf
+set output 'age_bp_correlation.pdf'
 set title 'Age vs. Resting Blood Pressure Correlation'
 set xlabel 'Age'
 set ylabel 'Resting Blood Pressure (trestbps)'
